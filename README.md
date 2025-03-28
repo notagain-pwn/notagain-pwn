@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey there, I'm notagain!
 
-<!--
-**notagain-pwn/notagain-pwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 💬 “First, solve the problem. Then, write the code.” — John Johnson  
+> 💻 Full-Stack Developer turned Ethical Hacker | Bug Bounty Hunter in the making
 
-Here are some ideas to get you started:
+## 🧭 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I spent **5+ years working as a software engineer**, building web apps, APIs, and dev tools across various stacks.  
+
+But beyond coding, I've always been fascinated by **how things break**, how systems can be abused, and how to secure them.  
+
+That curiosity naturally led me to the world of **penetration testing**, **CTFs**, and **bug bounty hunting** — and I'm now transitioning full-time into cybersecurity.
+
+## 🔍 My Focus Areas
+
+- Web Application Security (OWASP, SSRF, IDOR, etc.)
+- Capture The Flag challenges (HTB / TryHackMe / CTFtime)
+- Reverse Engineering & Malware Analysis
+- Bug Bounty Programs (access to private programs on platforms like **Yogosha**)
+
+## 📂 Featured Work
+
+Take a look at some of my public CTF writeups & research:
+
+- 🎯 [Cyber Apocalypse 2025 – HTB Writeups](https://github.com/notagain-pwn/hackthebox/tree/main/CTF/Cyber%20Apocalypse%202025)
+- 🚀 [More coming soon...]
+
+## 🎯 Goals for 2025
+
+- 🏴‍☠️ Become a top contributor on bug bounty platforms
+- 🔐 Get CPTS / CBBH / CWEE / CAPE / OSCP certified
+- 🎤 Share more writeups & educational content
+- 🧠 Keep learning, always
+
+## 🤝 Let’s Connect
+
+- 💼 [Discord](https://www.discord.com/users/891672177433268244)
+- 🧑‍💻 [CTFtime](https://ctftime.org/user/222223)
+- 🛡️ [HackerOne / Yogosha / YesWeHack – DM for handle]
+
+> _"The best way to learn how to defend a system is to learn how to break it."_  
+> — Me, probably.
