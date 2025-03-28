@@ -1,6 +1,7 @@
 # 👋 Hey there, I'm notagain!
 
 > 💬 “First, solve the problem. Then, write the code.” — John Johnson  
+
 > 💻 Full-Stack Developer turned Ethical Hacker | Bug Bounty Hunter in the making
 
 ## 🧭 About Me
