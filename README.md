@@ -36,7 +36,7 @@ Take a look at some of my public CTF writeups & research:
 
 - 💼 [Discord](https://www.discord.com/users/891672177433268244)
 - 🧑‍💻 [CTFtime](https://ctftime.org/user/222223)
-- 🛡️ [HackerOne / Yogosha / YesWeHack – DM for handle]
+- 🛡️ HackerOne / Yogosha / YesWeHack – DM for handle
 
 > _"The best way to learn how to defend a system is to learn how to break it."_  
 > — Me, probably.
