@@ -23,6 +23,7 @@ That curiosity naturally led me to the world of **penetration testing**, **CTFs*
 Take a look at some of my public CTF writeups & research:
 
 - 🎯 [Cyber Apocalypse 2025 – HTB Writeups](https://github.com/notagain-pwn/hackthebox/tree/main/CTF/Cyber%20Apocalypse%202025)
+- 📦 [HTB Challenge Writetups](https://github.com/notagain-pwn/hackthebox/tree/main/Challenges/README.md) — Pwn, reversing, crypto, web, and more.
 - 🚀 [More coming soon...]
 
 ## 🎯 Goals for 2025
