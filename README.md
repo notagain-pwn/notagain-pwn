@@ -24,7 +24,7 @@ That curiosity naturally led me to the world of **penetration testing**, **CTFs*
 Take a look at some of my public CTF writeups & research:
 - 🐊 [SwampCTF 2025 – Full Writeups (Pwn, Web, OSINT, Misc)](https://github.com/notagain-pwn/swampCTF/tree/main/CTF%202025) — Prompt injection, EXIF GPS leaks, image stego & more!
 - 🎯 [Cyber Apocalypse 2025 – HTB Writeups](https://github.com/notagain-pwn/hackthebox/tree/main/CTF/Cyber%20Apocalypse%202025)
-- 🛡 [UMDCTF 2026 - Pwn Writeups](https://github.com/notagain-pwn/UMDCTF/tree/main/UMDCTF%202025)
+- 🏴‍☠️ [UMDCTF 2025 - Pwn Writeups](https://github.com/notagain-pwn/UMDCTF/tree/main/UMDCTF%202025)
 - 📦 [HTB Challenge Writetups](https://github.com/notagain-pwn/hackthebox/tree/main/Challenges/README.md) — Pwn, reversing, crypto, web, and more.
 - 🚀 [More coming soon...]
 
