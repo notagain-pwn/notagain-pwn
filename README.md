@@ -31,7 +31,7 @@ Take a look at some of my public CTF writeups & research:
 ## 🎯 Goals for 2025
 
 - 🏴‍☠️ Become a top contributor on bug bounty platforms
-- 🔐 Get CPTS / CBBH / CWEE / CAPE / OSCP certified
+- 🔐 Get CPTS / CBBH / CWEE / CAPE / OSCP certified (joking, i don't care)
 - 🎤 Share more writeups & educational content
 - 🧠 Keep learning, always
 
